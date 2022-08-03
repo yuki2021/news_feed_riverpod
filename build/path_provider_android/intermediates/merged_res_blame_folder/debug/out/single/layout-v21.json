@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/a887/個人用リポジトリ/news_feed_riverpod/build/path_provider_android/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/a887/.gradle/caches/transforms-2/files-2.1/d0f3d431ac6a6fff4c9605d36e09c7a1/core-1.6.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/a887/個人用リポジトリ/news_feed_riverpod/build/path_provider_android/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/a887/.gradle/caches/transforms-2/files-2.1/d0f3d431ac6a6fff4c9605d36e09c7a1/core-1.6.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/a887/個人用リポジトリ/news_feed_riverpod/build/path_provider_android/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/a887/.gradle/caches/transforms-2/files-2.1/d0f3d431ac6a6fff4c9605d36e09c7a1/core-1.6.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/a887/個人用リポジトリ/news_feed_riverpod/build/path_provider_android/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/a887/.gradle/caches/transforms-2/files-2.1/d0f3d431ac6a6fff4c9605d36e09c7a1/core-1.6.0/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

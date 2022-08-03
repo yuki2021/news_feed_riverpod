@@ -1,0 +1,4 @@
+#Wed Aug 03 14:05:07 JST 2022
+base.0=/Users/a887/個人用リポジトリ/news_feed_riverpod/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

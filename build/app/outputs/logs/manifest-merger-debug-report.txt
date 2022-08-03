@@ -1,0 +1,135 @@
+-- Merging decision tree log ---
+application
+INJECTED from /Users/a887/個人用リポジトリ/news_feed_riverpod/android/app/src/main/AndroidManifest.xml:12:5-34:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/a887/.gradle/caches/transforms-2/files-2.1/c744f459fa4922b226f80e2d8371ae27/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/a887/.gradle/caches/transforms-2/files-2.1/c744f459fa4922b226f80e2d8371ae27/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/d0f3d431ac6a6fff4c9605d36e09c7a1/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/d0f3d431ac6a6fff4c9605d36e09c7a1/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/a887/.gradle/caches/transforms-2/files-2.1/2c294abda0c4905205bcc684e6e9da62/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/a887/.gradle/caches/transforms-2/files-2.1/2c294abda0c4905205bcc684e6e9da62/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/d0f3d431ac6a6fff4c9605d36e09c7a1/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:name
+		INJECTED from /Users/a887/個人用リポジトリ/news_feed_riverpod/android/app/src/main/AndroidManifest.xml
+manifest
+ADDED from /Users/a887/個人用リポジトリ/news_feed_riverpod/android/app/src/main/AndroidManifest.xml:1:1-35:12
+INJECTED from /Users/a887/個人用リポジトリ/news_feed_riverpod/android/app/src/main/AndroidManifest.xml:1:1-35:12
+INJECTED from /Users/a887/個人用リポジトリ/news_feed_riverpod/android/app/src/main/AndroidManifest.xml:1:1-35:12
+INJECTED from /Users/a887/個人用リポジトリ/news_feed_riverpod/android/app/src/main/AndroidManifest.xml:1:1-35:12
+MERGED from /Users/a887/個人用リポジトリ/news_feed_riverpod/android/app/src/main/AndroidManifest.xml:1:1-35:12
+MERGED from [:sqflite] /Users/a887/個人用リポジトリ/news_feed_riverpod/build/sqflite/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:sqlite3_flutter_libs] /Users/a887/個人用リポジトリ/news_feed_riverpod/build/sqlite3_flutter_libs/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider_android] /Users/a887/個人用リポジトリ/news_feed_riverpod/build/path_provider_android/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:webview_flutter_android] /Users/a887/個人用リポジトリ/news_feed_riverpod/build/webview_flutter_android/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [eu.simonbinder:sqlite3-native-library:3.37.2] /Users/a887/.gradle/caches/transforms-2/files-2.1/982da5d8f3915e93e35ce87e79e5c6e9/jetified-sqlite3-native-library-3.37.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.webkit:webkit:1.0.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/4d57f43c7bb87c25487927e7c67c5492/webkit-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/f1353a04d72a1604a4d2c5cdc4d4171a/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/a887/.gradle/caches/transforms-2/files-2.1/1243390f2cd567531011b35fbe8f010e/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/b9e3bc6f3997e049b75590bfe0e0d62d/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/69aa7c1226f07b7a5b87e023cf6297e1/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/6aa3851829e85116eaeab787a36ef849/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/a887/.gradle/caches/transforms-2/files-2.1/c744f459fa4922b226f80e2d8371ae27/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/965b686595f2cd784176e3fa9536b0fa/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/d0f3d431ac6a6fff4c9605d36e09c7a1/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/abc0ba785a8599a370b16a6ceb7247cd/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/16a5717c7bafbd1881baa4be4abd562f/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/67a2ea79e8072e6ecd95c9cd0e990f05/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/4519ecf69c7356b03c950b11f5f88ee6/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/d88b23564ece1e672574d9a86955ca7b/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/67e33ed5242143fdfe6af7eb4f03be4d/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/a887/.gradle/caches/transforms-2/files-2.1/2c294abda0c4905205bcc684e6e9da62/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/01533f4bb7c3c97624aa225b5b504b24/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/6080b01e15d9542d72d72a533b54cf57/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/a887/個人用リポジトリ/news_feed_riverpod/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/a887/個人用リポジトリ/news_feed_riverpod/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/a887/個人用リポジトリ/news_feed_riverpod/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /Users/a887/個人用リポジトリ/news_feed_riverpod/android/app/src/main/AndroidManifest.xml:2:5-36
+		INJECTED from /Users/a887/個人用リポジトリ/news_feed_riverpod/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/a887/個人用リポジトリ/news_feed_riverpod/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/a887/個人用リポジトリ/news_feed_riverpod/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/a887/個人用リポジトリ/news_feed_riverpod/android/app/src/main/AndroidManifest.xml:1:1-35:12
+		INJECTED from /Users/a887/個人用リポジトリ/news_feed_riverpod/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/a887/個人用リポジトリ/news_feed_riverpod/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/a887/個人用リポジトリ/news_feed_riverpod/android/app/src/main/AndroidManifest.xml:1:1-35:12
+		INJECTED from /Users/a887/個人用リポジトリ/news_feed_riverpod/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/a887/個人用リポジトリ/news_feed_riverpod/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/a887/個人用リポジトリ/news_feed_riverpod/android/app/src/main/AndroidManifest.xml:10:5-67
+MERGED from /Users/a887/個人用リポジトリ/news_feed_riverpod/android/app/src/main/AndroidManifest.xml:10:5-67
+MERGED from /Users/a887/個人用リポジトリ/news_feed_riverpod/android/app/src/main/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from /Users/a887/個人用リポジトリ/news_feed_riverpod/android/app/src/main/AndroidManifest.xml:10:22-64
+uses-sdk
+INJECTED from /Users/a887/個人用リポジトリ/news_feed_riverpod/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/a887/個人用リポジトリ/news_feed_riverpod/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/a887/個人用リポジトリ/news_feed_riverpod/android/app/src/main/AndroidManifest.xml
+MERGED from [:sqflite] /Users/a887/個人用リポジトリ/news_feed_riverpod/build/sqflite/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /Users/a887/個人用リポジトリ/news_feed_riverpod/build/sqflite/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:sqlite3_flutter_libs] /Users/a887/個人用リポジトリ/news_feed_riverpod/build/sqlite3_flutter_libs/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:sqlite3_flutter_libs] /Users/a887/個人用リポジトリ/news_feed_riverpod/build/sqlite3_flutter_libs/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] /Users/a887/個人用リポジトリ/news_feed_riverpod/build/path_provider_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] /Users/a887/個人用リポジトリ/news_feed_riverpod/build/path_provider_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter_android] /Users/a887/個人用リポジトリ/news_feed_riverpod/build/webview_flutter_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter_android] /Users/a887/個人用リポジトリ/news_feed_riverpod/build/webview_flutter_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [eu.simonbinder:sqlite3-native-library:3.37.2] /Users/a887/.gradle/caches/transforms-2/files-2.1/982da5d8f3915e93e35ce87e79e5c6e9/jetified-sqlite3-native-library-3.37.2/AndroidManifest.xml:5:5-44
+MERGED from [eu.simonbinder:sqlite3-native-library:3.37.2] /Users/a887/.gradle/caches/transforms-2/files-2.1/982da5d8f3915e93e35ce87e79e5c6e9/jetified-sqlite3-native-library-3.37.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.webkit:webkit:1.0.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/4d57f43c7bb87c25487927e7c67c5492/webkit-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.0.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/4d57f43c7bb87c25487927e7c67c5492/webkit-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/f1353a04d72a1604a4d2c5cdc4d4171a/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/f1353a04d72a1604a4d2c5cdc4d4171a/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/a887/.gradle/caches/transforms-2/files-2.1/1243390f2cd567531011b35fbe8f010e/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/a887/.gradle/caches/transforms-2/files-2.1/1243390f2cd567531011b35fbe8f010e/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/b9e3bc6f3997e049b75590bfe0e0d62d/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/b9e3bc6f3997e049b75590bfe0e0d62d/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/69aa7c1226f07b7a5b87e023cf6297e1/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/69aa7c1226f07b7a5b87e023cf6297e1/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/6aa3851829e85116eaeab787a36ef849/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/6aa3851829e85116eaeab787a36ef849/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/a887/.gradle/caches/transforms-2/files-2.1/c744f459fa4922b226f80e2d8371ae27/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/a887/.gradle/caches/transforms-2/files-2.1/c744f459fa4922b226f80e2d8371ae27/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/965b686595f2cd784176e3fa9536b0fa/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/965b686595f2cd784176e3fa9536b0fa/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/d0f3d431ac6a6fff4c9605d36e09c7a1/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/d0f3d431ac6a6fff4c9605d36e09c7a1/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/abc0ba785a8599a370b16a6ceb7247cd/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/abc0ba785a8599a370b16a6ceb7247cd/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/16a5717c7bafbd1881baa4be4abd562f/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/16a5717c7bafbd1881baa4be4abd562f/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/67a2ea79e8072e6ecd95c9cd0e990f05/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/67a2ea79e8072e6ecd95c9cd0e990f05/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/4519ecf69c7356b03c950b11f5f88ee6/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/4519ecf69c7356b03c950b11f5f88ee6/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/d88b23564ece1e672574d9a86955ca7b/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/d88b23564ece1e672574d9a86955ca7b/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/67e33ed5242143fdfe6af7eb4f03be4d/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/67e33ed5242143fdfe6af7eb4f03be4d/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/a887/.gradle/caches/transforms-2/files-2.1/2c294abda0c4905205bcc684e6e9da62/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/a887/.gradle/caches/transforms-2/files-2.1/2c294abda0c4905205bcc684e6e9da62/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/01533f4bb7c3c97624aa225b5b504b24/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/01533f4bb7c3c97624aa225b5b504b24/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/6080b01e15d9542d72d72a533b54cf57/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/a887/.gradle/caches/transforms-2/files-2.1/6080b01e15d9542d72d72a533b54cf57/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/a887/個人用リポジトリ/news_feed_riverpod/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/a887/個人用リポジトリ/news_feed_riverpod/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/a887/個人用リポジトリ/news_feed_riverpod/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/a887/個人用リポジトリ/news_feed_riverpod/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/a887/個人用リポジトリ/news_feed_riverpod/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/a887/個人用リポジトリ/news_feed_riverpod/android/app/src/debug/AndroidManifest.xml
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/a887/.gradle/caches/transforms-2/files-2.1/c744f459fa4922b226f80e2d8371ae27/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/a887/.gradle/caches/transforms-2/files-2.1/c744f459fa4922b226f80e2d8371ae27/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/a887/.gradle/caches/transforms-2/files-2.1/c744f459fa4922b226f80e2d8371ae27/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/a887/.gradle/caches/transforms-2/files-2.1/c744f459fa4922b226f80e2d8371ae27/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/a887/.gradle/caches/transforms-2/files-2.1/c744f459fa4922b226f80e2d8371ae27/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/a887/.gradle/caches/transforms-2/files-2.1/c744f459fa4922b226f80e2d8371ae27/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
