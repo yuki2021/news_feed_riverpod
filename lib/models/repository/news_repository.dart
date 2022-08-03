@@ -1,12 +1,12 @@
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
+import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:news_feed/data/category_info.dart';
 import 'package:news_feed/data/search_type.dart';
 import 'package:news_feed/models/db/dao.dart';
 import 'package:news_feed/models/db/database.dart';
 import 'package:news_feed/models/model/news_model.dart';
-import 'package:provider/provider.dart';
 import 'package:news_feed/main.dart';
 import 'package:news_feed/util/extensions.dart';
 
@@ -19,13 +19,17 @@ import 'package:http/http.dart' as http;
 * https://flutter.dev/docs/cookbook/networking/fetch-data
 * */
 
+final newsRepositoryProvider = Provider.autoDispose<NewsRepository>(
+    (ref) => NewsRepository(ref.read(newsDaoRepository)),
+);
+
 class NewsRepository {
   static const BASE_URL = "https://newsapi.org/v2/top-headlines?country=jp";
   //TODO ご自分のAPIキーを入れて下さい。
-  static const API_KEY = "977d1428acaa4e859fe2c429f52ec654";
+  static const API_KEY = "fbed2827038c42879ea8e6330e865ea9";
 
   final NewsDao _dao;
-  NewsRepository({dao, apiService}) : _dao = dao;
+  NewsRepository(dao) : _dao = dao;
 
   Future<List<Article>> getNews({
     required SearchType searchType,

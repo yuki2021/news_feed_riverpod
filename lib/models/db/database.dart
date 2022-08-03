@@ -2,6 +2,7 @@ import 'dart:io';
 
 import 'package:drift/drift.dart';
 import 'package:drift/native.dart';
+import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:news_feed/models/db/dao.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:path/path.dart' as path;
@@ -17,9 +18,14 @@ class ArticleRecords extends Table {
   TextColumn get content => text()();
 }
 
+final myDBProvider = Provider<MyDatabase>(
+    (ref) => MyDatabase(ref.read),
+);
+
 @DriftDatabase(tables: [ArticleRecords], daos: [NewsDao])
 class MyDatabase extends _$MyDatabase{
-  MyDatabase() : super(_openConnection());
+  final Reader read;
+  MyDatabase(this.read) : super(_openConnection());
 
   @override
   int get schemaVersion => 1;
